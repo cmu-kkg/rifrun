@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## RIF Run 2020
 
-You can use the [editor on GitHub](https://github.com/cmu-kkg/rifrun/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A site to plan the virtual RIF Run 5k!! Coming soon <3
 
 ### Markdown
 
